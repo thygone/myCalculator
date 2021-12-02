@@ -10,13 +10,12 @@ This app is, like I mentioned, a simple calculator. It works by taking the two n
 
 ## Development Environment
 
-{Describe the tools that you used to develop the app}
+
 I used the android studio app, using the kotlin language.
 I imported the widget.button and widget.editText, random, textview, and view libraries.
 
 ## Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [abhiAndroid](https://abhiandroid.com/createandroidapp/create-calculator-app)
 * [youtube](https://www.youtube.com/watch?v=vethIXEYbUk)
 
@@ -24,3 +23,4 @@ I imported the widget.button and widget.editText, random, textview, and view lib
 * add in a keypad for the number input
 * add in additionaly operations that can be performed (such as the sin, cos, and tan operators)
 * provide a way to save the results of the equations for future use.
+* clear button
